@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "mbit": "github:lzty634158/yahboom_mbit_tr#8de5c63d438ec3228477b47767933a25807cdd01"
     },
     "files": [
         "main.blocks",
